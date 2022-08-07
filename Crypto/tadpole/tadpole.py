@@ -2,7 +2,7 @@ from Crypto.Util.number import bytes_to_long, long_to_bytes, isPrime
 from secrets import randbelow
 
 p = bytes_to_long(open("flag.txt", "rb").read())
-print("Bytes to Long P =", p)
+print("Bytes to Long P =", p) #6864797660130609714981900799081393217269435300143305409394463459185543183397656052122559640661454554977296311391480858037121987999716643812574028291115057151
 
 # assert isPrime(p) # -> Hint, P is Prime
 

@@ -1,0 +1,3 @@
+# Linear Congruence Generator
+
+Si supieras la cantidad de tiempo que estuve leyendo como funciona para hacer la inversa...

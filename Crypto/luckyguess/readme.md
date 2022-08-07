@@ -1,0 +1,3 @@
+# Just Random
+
+Literalmente random.
