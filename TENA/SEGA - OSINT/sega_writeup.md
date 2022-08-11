@@ -6,7 +6,7 @@ Este desafio fue un poco raro. Se nos pedia el nombre de la "electronic Store" q
 
 La foto era la siguiente:
 
-![picture 17](../../images/a769909c7b012fe0114459c6568177bfef0d85b9ee711c3d043a98ea9446f130.png)  
+<img src="../../images/a769909c7b012fe0114459c6568177bfef0d85b9ee711c3d043a98ea9446f130.png" alt="HTML5 Icon" style="width:60%;height:100%;"> 
 
 Al hacer una busqueda de la foto, encontre que era el Sega ubicado en Akihabara (En Japon). <br>
 De ahi, fui a google maps y encontre un lugar muy parecido a la foto. (A diferencia de que el arbol carece de unas cuantas hojas)

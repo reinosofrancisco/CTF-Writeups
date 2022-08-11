@@ -20,9 +20,19 @@ Esto genera un Memory Leak Vulnerability. Puedo hacer un leak del stack.
 
 ![picture 30](../../images/0e125e560a959de85474edca14a65bc499a87f0d51efd865cd8c98be3e9386e6.png)  
 
+`objdump -t prob_noob`
+
+![picture 31](../../images/54ef1353045ede094a182773e8afb146657672f84806f8e0dd8b4131fd63d55d.png)  
+
+
+Y hasta aca llegan mis conocimientos de PWN. Despues intente ver si podia mostar la direccion de memoria de la flag, pero por falta de codigo fuente, estoy adivinando cual es la variable que contiene la flag.
+
+De todas formas, al intentar este payload, me imprime nuevamente el string. <br>
+```
 %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x \xc7\x05\x40\x00\x00\x00\x00\x00 %x %x %x %x %x %x %x %x %x %x %x %x %x %x 
 
 %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x \x48\x10\x60\x00 %x %x %x %x %x %x %x %x %x %x %x %x %x %x 
 
 00000000004005c7
 601048
+```
