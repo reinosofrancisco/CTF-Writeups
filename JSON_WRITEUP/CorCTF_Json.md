@@ -1,8 +1,3 @@
-# [1:43 p. m., 8/8/2022] 
-FACULTAD Adra Federico: Te metes al js y pones un breakpoint cuando va a hacer el post
-[1:43 p. m., 8/8/2022] FACULTAD Adra Federico: Cambias el score a 10000
-O algo alto
-
 # Jsonquiz
 
 ![picture 1](../images/1eac6e20cebf2cb5fe082040e4e0f882918bf5284c6a5cfad05e7a3b8bd0ab56.png)  
